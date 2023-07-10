@@ -1,5 +1,5 @@
 import React from "react";
-import PokemonPage from "./PokemonPage";
+import PokemonPage from "./Components/PokemonPage";
 
 function App() {
   return (
